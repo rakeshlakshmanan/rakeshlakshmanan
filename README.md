@@ -1,9 +1,11 @@
-## Hi there, I'm Rakesh 👋
+## Hi there, I'm Rakesh Lakshmanan👋
 
 ### 🚀 About Me
 - 🎓 Master's student in Computer Science
 - 💻 Backend & Distributed Systems enthusiast
 - 🤖 Interested in AI, ML & High Availability Systems
+
+
 ## 🔨 Featured Projects
 
 ### 🧠 AI & Intelligent Systems
