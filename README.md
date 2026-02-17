@@ -70,6 +70,19 @@
 🎯 **Final Grade:** 1:1 (92.3%)  
 📚 **Modules:** Object-Oriented Programming, Engineering Mathematics I & II, Artificial Intelligence
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/rakeshlakshmanan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshlakshmanan&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshlakshmanan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshlakshmanan&layout=compact&theme=tokyonight" />
+</p>
+
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-lakshmanan-9653a7217/)
