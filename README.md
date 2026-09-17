@@ -70,8 +70,8 @@
 
 **Trinity College Dublin**  
 *Master's in Computer Science – Future Networked Systems*  
-📅 **Sep 2025 – Present**  
-🎯 **Grade:** 1:1 (Expected)  
+📅 **Sep 2025 – Sep 2026**  
+🎯 **Grade:** 1:1   
 📚 **Modules:** Advanced Software Engineering, Machine Learning, Distributed Systems
 
 ---
